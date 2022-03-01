@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mournful maid of Berkshire: containing her woeful lamentation for her dearly beloved maiden-head, which she unfortunately lost upon the wheat-mow, with lusty Dick the dung-man. To the tune of, The jealous lover. Licens'd.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684-1695?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04424</idno>
+            <idno type="STC">Wing M2988</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[333]</idno>
+            <idno type="EEBO-CITATION">99887821</idno>
+            <idno type="PROQUEST">ocm99887821</idno>
+            <idno type="VID">183473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183473)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[264])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mournful maid of Berkshire: containing her woeful lamentation for her dearly beloved maiden-head, which she unfortunately lost upon the wheat-mow, with lusty Dick the dung-man. To the tune of, The jealous lover. Licens'd.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1684-1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Attend you friends and parents dear ..."</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: trimmed, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183473:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>
+               <hi>THE</hi> Mournful Maid of Berkſhire: <hi>CONTAINING</hi> Her Woeful Lamentation for her dearly beloved Maiden-head, which ſhe unfortunately loſt upon the Wheat-mow, with luſty <hi>Dick</hi> the Dung-man.</head>
+            <opener>To the Tune of, <hi>The Jealous Lover.</hi>
+            </opener>
+            <p>Licens'd.</p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>ATtend you Friends and Parents dear,</l>
+               <l>Unto this ſad Relation here,</l>
+               <l>Which to the World I here unfold,</l>
+               <l>A greater Truth cannot be told:</l>
+            </lg>
+            <lg>
+               <l>When Men to Wickedneſs are bent,</l>
+               <l>And Parents gives their joynt-conſent,</l>
+               <l>To the Commiſion of their Crimes,</l>
+               <l>Well may we ſay, <hi>Sad is the times.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Friends ought for to inſtruct them ſo,</l>
+               <l>That they the Laws of God might know;</l>
+               <l>But ſome are of another mind,</l>
+               <l>As by this Sequel you ſhall find:</l>
+            </lg>
+            <lg>
+               <l>Their lives a Woman in <hi>Berk-ſhire,</hi>
+               </l>
+               <l>Who has one lubey Son we hear,</l>
+               <l>And he endeavour'd night and day,</l>
+               <l>A modeſt Damoſel to betray,</l>
+            </lg>
+            <lg>
+               <l>That lived with his Mother then;</l>
+               <l>She could not be at quiet, when</l>
+               <l>He found her all alone, for ſtill</l>
+               <l>He preſt to gain her kind good will.</l>
+            </lg>
+            <lg>
+               <l>The modeſt Damoſel often cry'd,</l>
+               <l>His wanton ſuit muſt be deny'd;</l>
+               <l>Yet ne'er the leſs, this would not do,</l>
+               <l>For ſtill he did his ends purſue.</l>
+            </lg>
+            <lg>
+               <l>Sometimes he'd to her Chamber creep,</l>
+               <l>When ſhe perhaps was faſt a ſleep,</l>
+               <l>Thinking he might acceptance find,</l>
+               <l>But ſhe was of another mind:</l>
+            </lg>
+            <lg>
+               <l>And would not yield to his Requeſt,</l>
+               <l>Yet he'd not let her be at reſt,</l>
+               <l>Swearing that he himſelf would kill,</l>
+               <l>If he of her had not his will.</l>
+            </lg>
+            <lg>
+               <l>Say what you will, 'tis all in vain,</l>
+               <l>My Reputation i'll not ſtain;</l>
+               <l>Forbear your importunity,</l>
+               <l>Why ſhould you ſtrive to ruin me.</l>
+            </lg>
+            <lg>
+               <l>If you do not your ſuit forbear,</l>
+               <l>Then do I ſolemnly declare,</l>
+               <l>Your Mother, ſhe the truth ſhall know,</l>
+               <l>How you would ſeek my overthrow.</l>
+            </lg>
+            <lg>
+               <l>He never valu'd what ſhe ſaid,</l>
+               <l>So that at length this modeſt Maid,</l>
+               <l>Inform'd his Mother out of hand,</l>
+               <l>Who gave the Laſs, this Repremand,</l>
+            </lg>
+            <lg>
+               <l>Why Houſewife, Houſwife, ſhe reply'd</l>
+               <l>Why muſt my Son be thus deny'd,</l>
+               <l>Let him enjoy his Heart's Delight,</l>
+               <l>Perhaps he may your love requite:</l>
+            </lg>
+            <lg>
+               <l>For if by him with Child you prove,</l>
+               <l>My Son I will in kindneſs move</l>
+               <l>To take you for his lawful Wife,</l>
+               <l>Then will you lead a happy life.</l>
+            </lg>
+            <lg>
+               <l>The Maid was loath to truſt to this,</l>
+               <l>But ſaid, I pray ſweet Miſtreſs,</l>
+               <l>Let me go ſeek ſome other place,</l>
+               <l>For fear he brings me to diſgrace.</l>
+            </lg>
+            <lg>
+               <l>Her Dame reply'd, As I am true,</l>
+               <l>I can't, nor will not part with you;</l>
+               <l>Therefore pray ſet your heart at eaſe,</l>
+               <l>And ſee my Son you ſtrive to pleaſe.</l>
+            </lg>
+            <lg>
+               <l>Soon after this, he chanc'd to meet</l>
+               <l>The Damoſel on a Mow of Wheat,</l>
+               <l>Whom he with vows ſoon over came,</l>
+               <l>And reapt what I forbear to name.</l>
+            </lg>
+            <lg>
+               <l>Now when the Damoſel prov'd with Child,</l>
+               <l>She then was bitterly revil'd,</l>
+               <l>Both by the Mother and the Son,</l>
+               <l>They from their former vows did run.</l>
+            </lg>
+            <lg>
+               <l>The Damoſel then in ſad diſtreſs,</l>
+               <l>VVith grief of heart and heavineſs,</l>
+               <l>Cry'd out, Behold my wretched ſtate,</l>
+               <l>A Creature moſt unfortunate.</l>
+            </lg>
+            <lg>
+               <l>VVould I the VVretch had never known,</l>
+               <l>For here in bitter tears of moan,</l>
+               <l>I do my Lamentation make,</l>
+               <l>This heart of mine with grief will break.</l>
+            </lg>
+            <lg>
+               <l>Ye youthful Damſels, fair and young,</l>
+               <l>Take care that no deluding tongue;</l>
+               <l>Does e'er inſnare you for you'll find,</l>
+               <l>Men moſt unconſtant, like the wind</l>
+            </lg>
+            <lg>
+               <l>They ſeldom value what they ſwear,</l>
+               <l>Therefore young Damſels all beware;</l>
+               <l>Leaſt at the laſt you weep like me,</l>
+               <l>In tears of ſad extremity.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
